@@ -2,7 +2,7 @@
 
 Sistema de folha de pagamentos com arquitetura de microsserviços com Java 11.
 
-## Tencologias que foram ou serão implementas neste projeto:
+## Tencologias que foram ou ainda serão implementas neste projeto:
 - Feign para requisições de API entre microsserviços;
 - Ribbon para balanceamento de carga;
 - Servidor Eureka para registro dos microsserviços;
