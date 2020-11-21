@@ -8,6 +8,5 @@ Sistema de folha de pagamentos com arquitetura de microsserviços com Java 11.
 - Servidor Eureka para registro dos microsserviços;
 - API Gateway Zuul para roteamento e autorização;
 - Hystrix para tolerância a falhas;
-- OAuth e JWT para autenticação e autorização.
-
-
+- OAuth e JWT para autenticação e autorização;
+- Eureka Server para registro de microsserviços.
